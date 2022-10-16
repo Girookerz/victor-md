@@ -18,7 +18,7 @@ let str = `${global.wm}
 let wibu = `https://i.ibb.co/P5BBzbf/286637238-392674839545088-948545114162206238-n.jpg` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Sewa Bot','.sewa', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/_ctzhid",
+    mediaUrl: "https://www.instagram.com/reel/CiUkm_UDdpS/?igshid=YmMyMTA2M2Y=",
     mediaType: "VIDEO",
     description: "https://www.instagram.com/giroo_ktx", 
     title: 'VictorBotz',
